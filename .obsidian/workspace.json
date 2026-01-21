@@ -1,0 +1,372 @@
+{
+  "main": {
+    "id": "d54d0f8bf3e5b3ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfae90ce576edca9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75f4df9fe6f81c76",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BestPractic/Архитектура взаимодействия между окнами (и другими компонентами).md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Архитектура взаимодействия между окнами (и другими компонентами)"
+            }
+          },
+          {
+            "id": "4d5056333402d1b1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BestPractic/Правило большого пальца = Конструктор vs Отдельные методы.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Правило большого пальца = Конструктор vs Отдельные методы"
+            }
+          },
+          {
+            "id": "2cbef1559223a51c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BestPractic/SOLID architecture checklist.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "SOLID architecture checklist"
+            }
+          },
+          {
+            "id": "3be578fc75a2966a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BestPractic/Interfaces и Abstract class/Абстрактный класс vs Interfaces.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Абстрактный класс vs Interfaces"
+            }
+          },
+          {
+            "id": "0c648390bc67a312",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BestPractic/Паттерны внедрения зависимостей.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Паттерны внедрения зависимостей"
+            }
+          },
+          {
+            "id": "9a1f99ba52537811",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BestPractic/Паттерны внедрения зависимостей.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Паттерны внедрения зависимостей"
+            }
+          },
+          {
+            "id": "97f1d253f0f1b9c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QT/Widget/Структура GUI/DialogMessage/Основы класса QMessageBox.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Основы класса QMessageBox"
+            }
+          },
+          {
+            "id": "7ec9a64731ff815c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QT/Widget/Структура GUI/Списки и таблицы/QTableWidget/Получение выделенных ячеек.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Получение выделенных ячеек"
+            }
+          },
+          {
+            "id": "3822a74959c0c5fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Техкарты/КЭ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "КЭ"
+            }
+          },
+          {
+            "id": "70025687c77a7d65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Last/Promt/Мой идеальный промт.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Мой идеальный промт"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ec4ae077b643d12",
+    "type": "split",
+    "children": [
+      {
+        "id": "759f0196ac84b664",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "167c4b26dc27956a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "be6ee94a7daa3d58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "qTableWidget",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "067f20cbf9f6a9a6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 389.5
+  },
+  "right": {
+    "id": "441423d6fff1490e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b86de79ac3f33112",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "340224a36e1a6ec0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "fb4f1bc76728b67c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "b5da2220c3e2891e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2fca7caed10526f3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6ebce487559dcc1f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3822a74959c0c5fb",
+  "lastOpenFiles": [
+    "QT/Widget/Структура GUI/DialogMessage/Основы класса QMessageBox.md",
+    "BestPractic/Паттерны внедрения зависимостей.md",
+    "QT/Widget/Структура GUI/Списки и таблицы/QTableWidget/Получение выделенных ячеек.md",
+    "Техкарты/КЭ.md",
+    "Last/Promt/Мой идеальный промт.md",
+    "BestPractic/Архитектура взаимодействия между окнами (и другими компонентами).md",
+    "Untitled.md",
+    "PostgreSQL/migrattion/operations_fix.sql.md",
+    "Last/блок схема mermaid.md",
+    "Last/Eng/naming/✅Лучшие варианты для полноценного окна.md",
+    "Техкарты/Структура репозитороев.md",
+    "Техкарты/Передача данных в окно expressionEditorWindow.md",
+    "Техкарты/класс GUI Окна операции.md",
+    "Техкарты/ToolTip/Tooltip для древовидной модели.md",
+    "Техкарты/ToolTip/тултип для конкретных ячеек.md",
+    "Техкарты/qTableWidget/Методы для создания, заполнения и редактирования 1 ячейки без делегата.md",
+    "Техкарты/errorы/Все строки приводим fromLocal8Bit.md",
+    "QT/Отслеживания нажатия клавиши/4 способа.md",
+    "Техкарты/Операции/Создание древовидной таблицы.md",
+    "Техкарты/Операции/Наследуемся для получения одинакового поведения.md",
+    "Last/git_branch/✅Main.md",
+    "QT/Widget/Структура GUI/DialogMessage",
+    "Last/git_branch/Практическое правило.md",
+    "Last/git_branch/ui для верстки✅.md",
+    "BestPractic/what`s new/паттерн Unit of Work Единица работы.md",
+    "BestPractic/what`s new/data fragmentation.md",
+    "BestPractic/Untitled.md",
+    "BestPractic/Interfaces и Abstract class",
+    "BestPractic/what`s new",
+    "BestPractic",
+    "Техкарты/qTableWidget",
+    "QT/Widget/Структура GUI/Отображение данных/QLabel",
+    "QT/Widget/Структура GUI/Списки и таблицы/QTableWidget",
+    "Last/Promt",
+    "QT/Widget/format",
+    "Last/Eng/naming",
+    "cache/6.6.png",
+    "cache/6.3.png",
+    "cache/6.5.png",
+    "cache/6.4.png",
+    "cache/modelview-models.png",
+    "Pasted image 20251218085433.png",
+    "cache/MPV.png",
+    "cache/struct_qwidget.png",
+    "cache/независимые окна.png",
+    "cache/Pasted image 20251215155155.png"
+  ]
+}

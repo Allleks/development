@@ -1,0 +1,2 @@
+[Создание и использование собственной библиотеки Dynamic-Link (C++) | Microsoft Learn](https://learn.microsoft.com/ru-ru/cpp/build/walkthrough-creating-and-using-a-dynamic-link-library-cpp?view=msvc-170)
+![[Pasted image 20251212160808.png]]
