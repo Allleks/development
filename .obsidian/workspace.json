@@ -6,6 +6,7 @@
       {
         "id": "bfae90ce576edca9",
         "type": "tabs",
+        "dimension": 48.51729818780889,
         "children": [
           {
             "id": "75f4df9fe6f81c76",
@@ -72,22 +73,6 @@
             }
           },
           {
-            "id": "0c648390bc67a312",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BestPractic/Паттерны внедрения зависимостей.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Паттерны внедрения зависимостей"
-            }
-          },
-          {
             "id": "9a1f99ba52537811",
             "type": "leaf",
             "state": {
@@ -102,63 +87,59 @@
             }
           },
           {
-            "id": "97f1d253f0f1b9c7",
+            "id": "a7eaa73c1037fbf5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QT/Widget/Структура GUI/DialogMessage/Основы класса QMessageBox.md",
+                "file": "QList learn.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Основы класса QMessageBox"
+              "title": "QList learn"
             }
-          },
-          {
-            "id": "7ec9a64731ff815c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "QT/Widget/Структура GUI/Списки и таблицы/QTableWidget/Получение выделенных ячеек.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Получение выделенных ячеек"
-            }
-          },
-          {
-            "id": "3822a74959c0c5fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Техкарты/КЭ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "КЭ"
-            }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "d14d6d0ef54d365e",
+        "type": "tabs",
+        "dimension": 51.4827018121911,
+        "children": [
           {
             "id": "70025687c77a7d65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Last/Promt/Мой идеальный промт.md",
+                "file": "BestPractic/Forward Declaration and PIMP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Мой идеальный промт"
+              "title": "Forward Declaration and PIMP"
+            }
+          },
+          {
+            "id": "49d12c689c042600",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QList learn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "QList learn"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +159,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -215,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 277.5
   },
   "right": {
     "id": "441423d6fff1490e",
@@ -320,15 +301,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "3822a74959c0c5fb",
+  "active": "49d12c689c042600",
   "lastOpenFiles": [
-    "QT/Widget/Структура GUI/DialogMessage/Основы класса QMessageBox.md",
+    "BestPractic/Forward Declaration and PIMP.md",
+    "BestPractic/SOLID architecture checklist.md",
+    "BestPractic/Правило большого пальца = Конструктор vs Отдельные методы.md",
+    "BestPractic/Архитектура взаимодействия между окнами (и другими компонентами).md",
+    "BestPractic/Interfaces и Abstract class/Абстрактный класс vs Interfaces.md",
     "BestPractic/Паттерны внедрения зависимостей.md",
+    "QList learn.md",
+    "QT/Widget/Структура GUI/DialogMessage/Основы класса QMessageBox.md",
     "QT/Widget/Структура GUI/Списки и таблицы/QTableWidget/Получение выделенных ячеек.md",
     "Техкарты/КЭ.md",
     "Last/Promt/Мой идеальный промт.md",
-    "BestPractic/Архитектура взаимодействия между окнами (и другими компонентами).md",
+    "Техкарты/StructProject/Абстракции/Абстракция для окон операций/abstract_operations_window.h.md",
     "Untitled.md",
+    "Техкарты/StructProject/Абстракции/Абстракция для окон операций/abstract_operations_window.cpp.md",
+    "Техкарты/StructProject/Абстракции/Абстракция для окон операций",
+    "Техкарты/StructProject/Абстракции",
+    "Техкарты/StructProject/main.cpp.md",
+    "Техкарты/StructProject",
     "PostgreSQL/migrattion/operations_fix.sql.md",
     "Last/блок схема mermaid.md",
     "Last/Eng/naming/✅Лучшие варианты для полноценного окна.md",
@@ -340,24 +332,13 @@
     "Техкарты/qTableWidget/Методы для создания, заполнения и редактирования 1 ячейки без делегата.md",
     "Техкарты/errorы/Все строки приводим fromLocal8Bit.md",
     "QT/Отслеживания нажатия клавиши/4 способа.md",
-    "Техкарты/Операции/Создание древовидной таблицы.md",
-    "Техкарты/Операции/Наследуемся для получения одинакового поведения.md",
-    "Last/git_branch/✅Main.md",
     "QT/Widget/Структура GUI/DialogMessage",
-    "Last/git_branch/Практическое правило.md",
-    "Last/git_branch/ui для верстки✅.md",
-    "BestPractic/what`s new/паттерн Unit of Work Единица работы.md",
-    "BestPractic/what`s new/data fragmentation.md",
-    "BestPractic/Untitled.md",
     "BestPractic/Interfaces и Abstract class",
     "BestPractic/what`s new",
     "BestPractic",
     "Техкарты/qTableWidget",
     "QT/Widget/Структура GUI/Отображение данных/QLabel",
     "QT/Widget/Структура GUI/Списки и таблицы/QTableWidget",
-    "Last/Promt",
-    "QT/Widget/format",
-    "Last/Eng/naming",
     "cache/6.6.png",
     "cache/6.3.png",
     "cache/6.5.png",
