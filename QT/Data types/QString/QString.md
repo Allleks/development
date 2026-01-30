@@ -76,3 +76,11 @@ str.prepend("rock ");     // str == "rock and"
 str.append(" roll");        // str == "rock and roll"
 str.replace(5, 3, "&");   // str == "rock & roll"
 ```
+___
+#convert #string
+[c++ - Converting QString to std::string - Stack Overflow](https://stackoverflow.com/questions/18318443/converting-qstring-to-stdstring?rq=3)
+```cpp
+QString text = "Precise text that user would input";
+std::cout << text.toStdString() << std::endl; //or...
+qDebug() << text.toStdString().c_str();
+```

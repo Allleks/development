@@ -347,3 +347,86 @@ ___
 2. **std::tuple** - если нужно вернуть гетерогенные данные
 3. **QPair** - для простых случаев (как у вас)
 ___
+# continue в циклах
+#continue #for
+```cpp
+// 2. Если НЕ число
+if (!isNumber)  
+{
+    qDebug() << "Пропуск: не число";
+    continue;  // ← 3. ПРОПУСКАЕМ всю оставшуюся часть цикла для этой строки!
+}
+
+// 4. Сюда попадаем ТОЛЬКО если isNumber = true
+auto prop = std::make_shared<mcc::Property>(...);  // ← выполнится ТОЛЬКО для чисел
+mcc::PropertyValue propValue(prop, value);         // ← выполнится ТОЛЬКО для чисел
+propertyValue.insert(...);
+```
+___
+# Parsing или?
+```cpp
+// Шаг 1: Создаем копию строки
+QString expr = expressionResult;  // "{equipProp1} + {equipProp2}"
+
+// Шаг 2: Начинаем поиск с начала
+int pos = 0;
+
+// Шаг 3: Цикл пока находим '{'
+while ((pos = expr.indexOf('{', pos)) != -1)
+{
+    // Шаг 4: Ищем парную '}'
+    int end = expr.indexOf('}', pos);
+    
+    // Шаг 5: Если нет закрывающей - выходим
+    if (end == -1) break;
+    
+    // Шаг 6: Извлекаем текст между скобками
+    // mid(start, length) - берет подстроку
+    QString var = expr.mid(pos + 1, end - pos - 1).trimmed();
+    // Для "{equipProp1}": pos=0, end=11
+    // mid(1, 10) → "equipProp1"
+    
+    // Шаг 7: Проверяем в propertyValue
+    // find() ищет ключ в map, если не находит - возвращает end()
+    if (propertyValue.find(var.toStdString()) == propertyValue.end())
+    {
+        // Шаг 8: Ошибка если переменная не найдена
+        QMessageBox::warning(this, "Ошибка", 
+            QString("Переменная '%1' не заполнена в таблице").arg(var));
+        return; // Выходим из функции
+    }
+    
+    // Шаг 9: Переходим к следующей скобке
+    // Устанавливаем pos после текущей закрывающей скобки
+    pos = end + 1; // Для продолжения поиска
+}
+```
+___
+# QVariant в параметрах
+#improvement
+Это позволит передавать дополнительные данные между окнами.
+```cpp
+class EditExpressionWindow : public QDialog
+{
+    Q_OBJECT
+public:
+    // Добавляем возможность передавать контекст
+    EditExpressionWindow(const QString& title, 
+                         const QVariant& context = QVariant(),
+                         QWidget* parent = nullptr);
+    
+    void setContext(const QVariant& context);
+    QVariant context() const;
+    
+signals:
+    void expressionResultReady(const QString& result, const QVariant& context);
+    
+private:
+    QVariant m_context;
+};
+```
+___
+# ошибка
+#qt_bug
+если в конструкторе объекта qwidget вместо родителя добавить другой виджет то он в нем и будет отрисован, ошибочно подставите QLabel то не определенное поведение будет родитель должен быть окном!
+___
