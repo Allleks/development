@@ -1,2 +1,3 @@
 [Создание и использование собственной библиотеки Dynamic-Link (C++) | Microsoft Learn](https://learn.microsoft.com/ru-ru/cpp/build/walkthrough-creating-and-using-a-dynamic-link-library-cpp?view=msvc-170)
+[How to use Visual Studio to debug a C/C++ dynamic library called by a PowerBuilder 2019 application | Appeon](https://www.appeon.com/developers/get-help/knowledgebase/how-use-visual-studio-debug-cc-dynamic-library-called-powerbuilder-2019-application.html)
 ![[Pasted image 20251212160808.png]]
