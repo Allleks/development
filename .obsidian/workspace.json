@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Last/VSStudio/✅Precompiled Headers (PCH).md",
+                "file": "QT/Чтение файлов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "✅Precompiled Headers (PCH)"
+              "title": "Чтение файлов"
             }
           }
         ],
@@ -242,12 +242,14 @@
   },
   "active": "6b22bba8774e3245",
   "lastOpenFiles": [
-    "Last/VSStudio/214324.md",
+    "BestPractic/SOLID architecture checklist.md",
+    "QT/Чтение файлов.md",
+    "Last/VSStudio/Иконка для исполняемого файла.md",
     "Last/VSStudio/✅Precompiled Headers (PCH).md",
+    "Last/VSStudio/214324.md",
     "Last/VSStudio/Ошибка с precomile headers.md",
     "Last/VSStudio/Документирование кода.md",
     "Last/PowerShell/vcpkg.md",
-    "BestPractic/SOLID architecture checklist.md",
     "Last/PowerShell/Получение только хеша (без лишней информации).md",
     "Last/VSStudio/create dll.md",
     "Last/PowerShell",
@@ -269,8 +271,6 @@
     "Техкарты/errorы/Все строки приводим fromLocal8Bit.md",
     "Техкарты/ResolveExpression.md",
     "Техкарты/Структура репозитороев.md",
-    "BestPractic/Группирую слоты и связываю окна между собой.md",
-    "Техкарты/Untitled.md",
     "Техкарты/StructProject/Абстракции/Абстракция для окон операций",
     "Техкарты/StructProject/Абстракции",
     "Техкарты/StructProject",
