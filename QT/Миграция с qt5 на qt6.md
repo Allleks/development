@@ -30,3 +30,20 @@ ___
 |`QVariant::List`|`QMetaType::QVariantList`|Список QVariant|
 |`QVariant::Map`|`QMetaType::QVariantMap`|Словарь QVariantMap|
 |`QVariant::UserType`|`QMetaType::User`|Пользовательский тип|
+## ⚠️ Важные нюансы
+
+1. **Метод `QVariant::type()` тоже устарел**
+- Вместо `var.type()` используйте `static_cast<QMetaType::Type>(var.typeId())`
+```cpp
+void processData(const QVariant &data) {
+    QMetaType::Type type = static_cast<QMetaType::Type>(data.typeId());
+    
+    if (type == QMetaType::QString) {
+        QString str = data.toString();
+        // обработка строки
+    } else if (type == QMetaType::Int) {
+        int value = data.toInt();
+        // обработка числа
+    }
+}
+```
