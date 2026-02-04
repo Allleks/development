@@ -66,15 +66,17 @@
           {
             "id": "6b22bba8774e3245",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "➡️Last/C++/using vs typedef.md",
+                "file": "➡️Last/C++/map - value_type.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "using vs typedef"
+              "title": "map - value_type"
             }
           }
         ],
@@ -242,8 +244,10 @@
   },
   "active": "6b22bba8774e3245",
   "lastOpenFiles": [
-    "BestPractic/SOLID architecture checklist.md",
+    "➡️Last/C++/Предикат сортировки.md",
+    "➡️Last/C++/map - value_type.md",
     "➡️Last/C++/using vs typedef.md",
+    "BestPractic/SOLID architecture checklist.md",
     "QT/Data types/QMetaType/QMetaType (современный в Qt6).md",
     "QT/Data types/QMetaType/📝 Краткая памятка.md",
     "QT/Data types/QMetaType",
@@ -270,8 +274,6 @@
     "QT/Widget/Структура GUI/Списки и таблицы/QTableWidget/Основные типы данных.md",
     "Функция для расчета выражения.md",
     "Техкарты/Разобрать код.md",
-    "QT/Widget/Структура GUI/Списки и таблицы/QTableWidget/Получение выделенных ячеек.md",
-    "QT/Widget/Структура GUI/Списки и таблицы/QTableWidget/Запрет редактирования данных.md",
     "Техкарты/StructProject/Абстракции/Абстракция для окон операций",
     "Техкарты/StructProject/Абстракции",
     "Техкарты/StructProject",
