@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QT/Data types/QMetaType/QMetaType (современный в Qt6).md",
+                "file": "➡️Last/C++/using vs typedef.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QMetaType (современный в Qt6)"
+              "title": "using vs typedef"
             }
           }
         ],
@@ -242,8 +242,10 @@
   },
   "active": "6b22bba8774e3245",
   "lastOpenFiles": [
-    "QT/Data types/QMetaType/📝 Краткая памятка.md",
+    "BestPractic/SOLID architecture checklist.md",
+    "➡️Last/C++/using vs typedef.md",
     "QT/Data types/QMetaType/QMetaType (современный в Qt6).md",
+    "QT/Data types/QMetaType/📝 Краткая памятка.md",
     "QT/Data types/QMetaType",
     "QT/Миграция с qt5 на qt6.md",
     "➡️Last/VSStudio/📗Документирование кода.md",
@@ -252,7 +254,6 @@
     "➡️Last/VSStudio/Создаем dll библиотеку.md",
     "QT/Чтение файлов.md",
     "➡️Last/VSStudio/maintenance.md",
-    "BestPractic/SOLID architecture checklist.md",
     "➡️Last/VSStudio/✅Precompiled Headers (PCH).md",
     "➡️Last/VSStudio/214324.md",
     "➡️Last/PowerShell/vcpkg.md",
@@ -271,7 +272,6 @@
     "Техкарты/Разобрать код.md",
     "QT/Widget/Структура GUI/Списки и таблицы/QTableWidget/Получение выделенных ячеек.md",
     "QT/Widget/Структура GUI/Списки и таблицы/QTableWidget/Запрет редактирования данных.md",
-    "QT/Widget/Структура GUI/Списки и таблицы/QTableWidget/Методы для создания, заполнения и редактирования 1 ячейки без делегата.md",
     "Техкарты/StructProject/Абстракции/Абстракция для окон операций",
     "Техкарты/StructProject/Абстракции",
     "Техкарты/StructProject",
