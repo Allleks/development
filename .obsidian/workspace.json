@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QT/Чтение файлов.md",
+                "file": "➡️Last/VSStudio/📗Документирование кода.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Чтение файлов"
+              "title": "📗Документирование кода"
             }
           }
         ],
@@ -242,23 +242,23 @@
   },
   "active": "6b22bba8774e3245",
   "lastOpenFiles": [
-    "BestPractic/SOLID architecture checklist.md",
+    "➡️Last/VSStudio/Иконка для исполняемого файла.md",
+    "➡️Last/VSStudio/Ошибка с precomile headers.md",
+    "➡️Last/VSStudio/Создаем dll библиотеку.md",
     "QT/Чтение файлов.md",
-    "Last/VSStudio/Иконка для исполняемого файла.md",
-    "Last/VSStudio/✅Precompiled Headers (PCH).md",
-    "Last/VSStudio/214324.md",
-    "Last/VSStudio/Ошибка с precomile headers.md",
-    "Last/VSStudio/Документирование кода.md",
-    "Last/PowerShell/vcpkg.md",
-    "Last/PowerShell/Получение только хеша (без лишней информации).md",
-    "Last/VSStudio/create dll.md",
-    "Last/PowerShell",
-    "Last/не в тему.md",
-    "Last/блок схема mermaid.md",
-    "Last/VSStudio/maintenance.md",
-    "Last/VSStudio/Unicode.md",
+    "➡️Last/VSStudio/maintenance.md",
+    "BestPractic/SOLID architecture checklist.md",
+    "➡️Last/VSStudio/✅Precompiled Headers (PCH).md",
+    "➡️Last/VSStudio/214324.md",
+    "➡️Last/VSStudio/📗Документирование кода.md",
+    "➡️Last/PowerShell/vcpkg.md",
+    "➡️Last/PowerShell/Получение только хеша (без лишней информации).md",
+    "➡️Last/PowerShell",
+    "➡️Last/не в тему.md",
+    "➡️Last/блок схема mermaid.md",
+    "➡️Last/VSStudio/Unicode.md",
     "QList learn.md",
-    "Last/Eng/Самоучитель английского.md",
+    "➡️Last/Eng/Самоучитель английского.md",
     "QT/Data types/QString/QString.md",
     "QT/Data types/QString",
     "Qstring",
