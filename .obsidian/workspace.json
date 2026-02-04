@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QT/Data types/QMetaType/📝 Краткая памятка.md",
+                "file": "QT/Data types/QMetaType/QMetaType (современный в Qt6).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📝 Краткая памятка"
+              "title": "QMetaType (современный в Qt6)"
             }
           }
         ],
@@ -242,8 +242,8 @@
   },
   "active": "6b22bba8774e3245",
   "lastOpenFiles": [
-    "QT/Data types/QMetaType/QMetaType (современный в Qt6).md",
     "QT/Data types/QMetaType/📝 Краткая памятка.md",
+    "QT/Data types/QMetaType/QMetaType (современный в Qt6).md",
     "QT/Data types/QMetaType",
     "QT/Миграция с qt5 на qt6.md",
     "➡️Last/VSStudio/📗Документирование кода.md",
