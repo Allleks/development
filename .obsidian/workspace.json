@@ -85,12 +85,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "➡️Last/C++/Виртуальный деструктор.md",
+                "file": "QT/Data types/QVariantMap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Виртуальный деструктор"
+              "title": "QVariantMap"
             }
           }
         ],
@@ -258,8 +258,9 @@
   },
   "active": "1562287cd24ad9a1",
   "lastOpenFiles": [
-    "➡️Last/C++/map - value_type.md",
     "➡️Last/C++/Виртуальный деструктор.md",
+    "QT/Data types/QVariantMap.md",
+    "➡️Last/C++/map - value_type.md",
     "➡️Last/C++/Предикат сортировки.md",
     "➡️Last/C++/using vs typedef.md",
     "BestPractic/SOLID architecture checklist.md",
@@ -287,7 +288,6 @@
     "QT/Data types/QString",
     "Qstring",
     "QT/Widget/Структура GUI/Списки и таблицы/QTableWidget/Основные типы данных.md",
-    "Функция для расчета выражения.md",
     "Техкарты/StructProject/Абстракции/Абстракция для окон операций",
     "Техкарты/StructProject/Абстракции",
     "Техкарты/StructProject",
