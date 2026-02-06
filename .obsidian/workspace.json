@@ -23,8 +23,41 @@
               "icon": "lucide-file",
               "title": "SOLID architecture checklist"
             }
+          },
+          {
+            "id": "2638982766b23dec",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BestPractic/Алгоритмы и время выполнения.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Алгоритмы и время выполнения"
+            }
+          },
+          {
+            "id": "2c78660b20361ec7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "➡️Last/Promt/Шаблоны промтов для разных задач.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Шаблоны промтов для разных задач"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "d14d6d0ef54d365e",
@@ -45,22 +78,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "QList learn"
-            }
-          },
-          {
-            "id": "5e26abe79f12e9a6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Last/Eng/Самоучитель английского.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Самоучитель английского"
             }
           },
           {
@@ -85,30 +102,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QT/Data types/QVariant.md",
+                "file": "➡️Last/Promt/Мой идеальный промт.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QVariant"
-            }
-          },
-          {
-            "id": "2638982766b23dec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Разобрать на 06.02.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Разобрать на 06.02"
+              "title": "Мой идеальный промт"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 257.5
   },
   "right": {
     "id": "441423d6fff1490e",
@@ -270,16 +273,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "2638982766b23dec",
+  "active": "2c78660b20361ec7",
   "lastOpenFiles": [
-    "QT/Data types/QVariant.md",
+    "➡️Last/Promt/Мой идеальный промт.md",
+    "➡️Last/Promt/Шаблоны промтов для разных задач.md",
+    "➡️Last/Promt/Элементы качественного промта.md",
+    "➡️Last/Promt/Промты для Qt-разработки.md",
     "Разобрать на 06.02.md",
+    "QT/Data types/QVariant.md",
+    "QList learn.md",
+    "➡️Last/C++/map - value_type.md",
+    "BestPractic/Алгоритмы и время выполнения.md",
+    "BestPractic/SOLID architecture checklist.md",
     "QT/Data types/QVariantMap.md",
     "➡️Last/C++/Виртуальный деструктор.md",
-    "➡️Last/C++/map - value_type.md",
     "➡️Last/C++/Предикат сортировки.md",
     "➡️Last/C++/using vs typedef.md",
-    "BestPractic/SOLID architecture checklist.md",
     "QT/Data types/QMetaType/QMetaType (современный в Qt6).md",
     "QT/Data types/QMetaType/📝 Краткая памятка.md",
     "QT/Data types/QMetaType",
@@ -293,13 +302,7 @@
     "➡️Last/VSStudio/✅Precompiled Headers (PCH).md",
     "➡️Last/VSStudio/214324.md",
     "➡️Last/PowerShell/vcpkg.md",
-    "➡️Last/PowerShell/Получение только хеша (без лишней информации).md",
     "➡️Last/PowerShell",
-    "➡️Last/не в тему.md",
-    "➡️Last/блок схема mermaid.md",
-    "➡️Last/VSStudio/Unicode.md",
-    "QList learn.md",
-    "➡️Last/Eng/Самоучитель английского.md",
     "QT/Data types/QString",
     "Qstring",
     "Техкарты/StructProject/Абстракции/Абстракция для окон операций",
