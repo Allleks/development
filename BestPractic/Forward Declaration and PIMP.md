@@ -21,7 +21,7 @@ class MyClass {
 };
 ```
 **Использовать когда:** нужен только указатель/ссылка на класс.
-
+___
 ## PIMPL (Private Implementation / Pointer to Implementation)
 
 ### Что это:

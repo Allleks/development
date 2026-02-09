@@ -430,3 +430,16 @@ ___
 #qt_bug
 если в конструкторе объекта qwidget вместо родителя добавить другой виджет то он в нем и будет отрисован, ошибочно подставите QLabel то не определенное поведение будет родитель должен быть окном!
 ___
+# ui(new UI::) зачем инициализируем через
+```cpp
+#include "stdafx.h"
+#include "NipoletUI.h"
+
+NipoletUI::NipoletUI(Element* el, DevicesDB* db, int workTemp, bool isPrototype, QWidget* parent) 
+	: QBaseElementUI(parent, db), ui(new Ui::Nipolet) <-- Что создаем???
+{
+	ui->setupUi(this); <--- здесь мы устанавливаем форму
+	curEl = el;
+```
+## UI можно удалить? delete ui->rkWelding_groupBox;
+___

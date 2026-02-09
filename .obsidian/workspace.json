@@ -25,35 +25,23 @@
             }
           },
           {
-            "id": "45f1dc71be66f37a",
+            "id": "a4b0bc8e0f20cd8f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "➡️Last/C++/🟢virtual destructor.md",
+                "file": "Разобрать на 09.02.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "🟢virtual destructor"
-            }
-          },
-          {
-            "id": "f560b1e589cc57ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Разобрать на 06.02.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Разобрать на 06.02"
+              "title": "Разобрать на 09.02"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "d14d6d0ef54d365e",
@@ -75,25 +63,8 @@
               "icon": "lucide-file",
               "title": "QList learn"
             }
-          },
-          {
-            "id": "6b22bba8774e3245",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "➡️Last/C++/map - value_type.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "map - value_type"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -255,19 +226,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "f560b1e589cc57ff",
+  "active": "49d12c689c042600",
   "lastOpenFiles": [
-    "➡️Last/C++/map - value_type.md",
-    "➡️Last/C++/🟢virtual destructor.md",
+    "Разобрать на 09.02.md",
     "BestPractic/SOLID architecture checklist.md",
+    "QList learn.md",
+    "➡️Last/C++/map - value_type.md",
     "BestPractic/Алгоритмы и время выполнения.md",
+    "BestPractic/Архитектура взаимодействия между окнами (и другими компонентами).md",
+    "BestPractic/Группирую слоты и связываю окна между собой.md",
+    "BestPractic/Паттерны внедрения зависимостей.md",
+    "BestPractic/Правило большого пальца = Конструктор vs Отдельные методы.md",
+    "BestPractic/Forward Declaration and PIMP.md",
+    "BestPractic/GOLDEN RULES (ЗОЛОТЫЕ ПРАВИЛА).md",
+    "➡️Last/не в тему.md",
+    "➡️Last/C++/🟢virtual destructor.md",
     "➡️Last/Promt/Шаблоны промтов для разных задач.md",
     "➡️Last/Promt/Мой идеальный промт.md",
     "➡️Last/Promt/Элементы качественного промта.md",
     "➡️Last/Promt/Промты для Qt-разработки.md",
-    "Разобрать на 06.02.md",
     "QT/Data types/QVariant.md",
-    "QList learn.md",
     "QT/Data types/QVariantMap.md",
     "➡️Last/C++/Виртуальный деструктор.md",
     "➡️Last/C++/Предикат сортировки.md",
@@ -277,13 +255,6 @@
     "QT/Data types/QMetaType",
     "QT/Миграция с qt5 на qt6.md",
     "➡️Last/VSStudio/📗Документирование кода.md",
-    "➡️Last/VSStudio/Иконка для исполняемого файла.md",
-    "➡️Last/VSStudio/Ошибка с precomile headers.md",
-    "➡️Last/VSStudio/Создаем dll библиотеку.md",
-    "QT/Чтение файлов.md",
-    "➡️Last/VSStudio/maintenance.md",
-    "➡️Last/VSStudio/✅Precompiled Headers (PCH).md",
-    "➡️Last/VSStudio/214324.md",
     "➡️Last/PowerShell",
     "QT/Data types/QString",
     "Qstring",
