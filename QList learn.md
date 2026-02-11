@@ -443,3 +443,87 @@ NipoletUI::NipoletUI(Element* el, DevicesDB* db, int workTemp, bool isPrototype,
 ```
 ## UI можно удалить? delete ui->rkWelding_groupBox;
 ___
+## static методы класса
+#static #method #class
+### **Объявление vs Определение**
+- **Объявление** (в .h файле): `static Operation HighPressure;`
+    - Говорит компилятору: "Такой объект где-то существует"
+    - Не выделяет память
+- **Определение** (в .cpp файле): `Operation Operation::HighPressure;`
+    - **Выделяет память** для переменной
+    - Создает реальный объект в памяти
+
+### 2. **Как работает компиляция и линковка**
+```text
+Шаг 1: Компиляция каждого .cpp файла
+- main.cpp видит: "static Operation HighPressure" ← только объявление
+- Operation.cpp: может содержать или не содержать определение
+Шаг 2: Линковка (сборка всех .obj файлов)
+- main.obj ищет: "Где же находится Operation::HighPressure?"
+- Если в Operation.obj нет определения → ОШИБКА LNK2001!
+```
+
+```cpp
+## Реальный пример:
+
+**Operation.h:**
+
+cpp
+
+class Operation {
+private:
+    std::string name;
+public:
+    Operation(const std::string& n) : name(n) {}
+    
+    // Объявления статических членов
+    static Operation HighPressure;
+    static Operation BoardCar;
+    
+    std::string getName() const { return name; }
+};
+
+**Operation.cpp:**
+
+cpp
+
+#include "Operation.h"
+// ОПРЕДЕЛЕНИЯ (выделение памяти + инициализация)
+Operation Operation::HighPressure("Высокое давление");
+Operation Operation::BoardCar("Бортовой автомобиль");
+// Без этих строк - HighPressure и BoardCar НЕ СУЩЕСТВУЮТ в памяти!
+
+**main.cpp:**
+
+cpp
+
+#include "Operation.h"
+int main() {
+    // Используем статические переменные
+    Operation op1 = Operation::HighPressure;  // Работает!
+    Operation op2 = Operation::BoardCar;      // Работает!
+    
+    return 0;
+}
+```
+## Интересный факт:
+**Шаблонные статические переменные** (template) не требуют определения в .cpp файле, если они используются - они инстанцируются автоматически:
+```cpp
+template<typename T>
+class MyClass {
+public:
+    static T value;  // Для шаблонов - определение обычно в .h файле
+};
+// Определение шаблонной статической переменной
+template<typename T>
+T MyClass<T>::value = T();  // В .h файле!
+```
+## Вывод:
+**Статические переменные класса должны быть определены вне класса**, потому что:
+1. Они существуют **вне объектов** класса
+2. Нужно **выделить конкретную память** для них
+3. Компилятору нужно знать **конкретный адрес** в памяти
+4. Каждый модуль (файл .cpp) компилируется отдельно, и линковщик должен "склеить" все ссылки
+
+**Без определения = нет памяти = нет объекта = ошибка линковки!**
+___
