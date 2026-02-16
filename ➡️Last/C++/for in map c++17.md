@@ -1,4 +1,5 @@
-
+#cpp17 #распаковка_контейнера
+___
 ```cpp
 
 std::map<int,std::string> mapa;

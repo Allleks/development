@@ -6,24 +6,7 @@
       {
         "id": "bfae90ce576edca9",
         "type": "tabs",
-        "dimension": 51.53970826580226,
         "children": [
-          {
-            "id": "2cbef1559223a51c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BestPractic/SOLID architecture checklist.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "SOLID architecture checklist"
-            }
-          },
           {
             "id": "a4b0bc8e0f20cd8f",
             "type": "leaf",
@@ -31,113 +14,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔥Разобрать на 11.02.md",
+                "file": "🔥Разобрать.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "🔥Разобрать на 11.02"
+              "title": "🔥Разобрать"
             }
           },
           {
-            "id": "194d4206c7d7f05b",
+            "id": "aed0ede78589fba0",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QT/QJsonDocument.md",
+                "file": "➡️Last/Eng/Самоучитель английского.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "QJsonDocument"
-            }
-          },
-          {
-            "id": "cdafc7b627e57130",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "QT/Data types/QMap/QMap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "QMap"
+              "title": "Самоучитель английского"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "d14d6d0ef54d365e",
-        "type": "tabs",
-        "dimension": 48.46029173419774,
-        "children": [
-          {
-            "id": "49d12c689c042600",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "QList learn.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "QList learn"
-            }
-          },
-          {
-            "id": "d8fbd2d19dde98ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "QT/Data types/QVariant.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "QVariant"
-            }
-          },
-          {
-            "id": "a04b9043361187da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "QT/Data types/QVariant.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "QVariant"
-            }
-          },
-          {
-            "id": "a007ed35466dbf5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          }
-        ],
-        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -299,53 +202,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "a007ed35466dbf5f",
+  "active": "aed0ede78589fba0",
   "lastOpenFiles": [
-    "🔥Разобрать на 11.02.md",
-    "Untitled.md",
-    "QT/Data types/QMap/QMap.md",
-    "QT/Data types/QMap/Untitled.md",
-    "➡️Last/Promt/🔥Мой идеальный промт.md",
-    "QT/Data types/QMap",
-    "➡️Last/Promt/Шаблоны промтов для разных задач.md",
-    "QT/Data types/QMetaType/QMetaType (современный в Qt6).md",
-    "QT/QJsonDocument.md",
-    "BestPractic/SOLID architecture checklist.md",
-    "QT/Data types/QVariant.md",
-    "QList learn.md",
-    "QT/Data types/QMetaType/📝 Краткая памятка.md",
-    "QT/Untitled.md",
-    "➡️Last/C++/map - value_type.md",
-    "BestPractic/Алгоритмы и время выполнения.md",
-    "BestPractic/Архитектура взаимодействия между окнами (и другими компонентами).md",
-    "BestPractic/Группирую слоты и связываю окна между собой.md",
-    "BestPractic/Паттерны внедрения зависимостей.md",
-    "BestPractic/Правило большого пальца = Конструктор vs Отдельные методы.md",
-    "BestPractic/Forward Declaration and PIMP.md",
-    "BestPractic/GOLDEN RULES (ЗОЛОТЫЕ ПРАВИЛА).md",
-    "➡️Last/не в тему.md",
+    "password/database_pass.passtable",
+    "password",
+    "Новая папка",
+    "➡️Last/C++/using vs typedef.md",
+    "➡️Last/Eng/Самоучитель английского.md",
+    "🔥Разобрать.md",
+    "➡️Last/C++/random (not srand, rand).md",
+    "➡️Last/C++/Precompiled Header (PCH).md",
+    "➡️Last/C++/for in map c++17.md",
+    "➡️Last/C++/Предикат сортировки less.md",
+    "➡️Last/C++/Конструктор.md",
+    "➡️Last/C++/Виртуальный деструктор.md",
     "➡️Last/C++/🟢virtual destructor.md",
-    "➡️Last/Promt/Элементы качественного промта.md",
-    "➡️Last/Promt/Промты для Qt-разработки.md",
-    "QT/Data types/QVariantMap.md",
+    "➡️Last/Eng/naming/✅Лучшие варианты для полноценного окна.md",
+    "➡️Last/Eng/Tech.md",
+    "➡️Last/Eng/all.md",
+    "➡️Last/Eng/💡 Практические советы по использованию.md",
+    "➡️Last/git_branch/✅Main.md",
+    "➡️Last/PowerShell/vcpkg.md",
+    "➡️Last/PowerShell/Получение только хеша (без лишней информации).md",
+    "➡️Last/не в тему.md",
+    "➡️Last/блок схема mermaid.md",
+    "QT/Data types/QMap/QMap.md",
+    "QT/QJsonDocument.md",
+    "QList learn.md",
+    "QT/Data types/QVariant.md",
+    "Untitled.md",
+    "Функция для расчета выражения.md",
+    "cache/Pasted image 20260216133217.png",
+    "cache/6.3.png",
+    "cache/6.4.png",
+    "cache/6.5.png",
+    "cache/6.6.png",
+    "cache/независимые окна.png",
+    "cache/modelview-models.png",
+    "cache/MPV.png",
+    "cache/Pasted image 20251212105738.png",
+    "cache/Pasted image 20251212160808.png",
+    "Техкарты/🎃БКЭ",
+    "Техкарты/🎃БКЭ/Добавить устройство",
+    "QT/Data types/QMap",
     "QT/Data types/QMetaType",
     "➡️Last/PowerShell",
     "QT/Data types/QString",
     "Qstring",
-    "Техкарты/StructProject/Абстракции/Абстракция для окон операций",
-    "Техкарты/StructProject/Абстракции",
-    "Техкарты/StructProject",
-    "QT/Widget/Структура GUI/DialogMessage",
-    "BestPractic/Interfaces и Abstract class",
-    "cache/6.6.png",
-    "cache/6.3.png",
-    "cache/6.5.png",
-    "cache/6.4.png",
-    "cache/modelview-models.png",
-    "Pasted image 20251218085433.png",
-    "cache/MPV.png",
-    "cache/struct_qwidget.png",
-    "cache/независимые окна.png",
-    "cache/Pasted image 20251215155155.png"
+    "Техкарты/StructProject/Абстракции/Абстракция для окон операций"
   ]
 }
