@@ -24,6 +24,20 @@
             }
           },
           {
+            "id": "b05934a91c3c1ec8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QT/Data types/QVariant.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "QVariant"
+            }
+          },
+          {
             "id": "aed0ede78589fba0",
             "type": "leaf",
             "pinned": true,
@@ -59,16 +73,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "➡️Last/Promt/🔥Мой идеальный промт.md",
+                "file": "➡️Last/🟩СУБД🟩/❤️‍🔥БАЗЫ ДАННЫХ И СУБД-ПОЛНОЕ РУКОВОДСТВО ДЛЯ C++QT РАЗРАБОТЧИКА.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🔥Мой идеальный промт"
+              "title": "❤️‍🔥БАЗЫ ДАННЫХ И СУБД-ПОЛНОЕ РУКОВОДСТВО ДЛЯ C++QT РАЗРАБОТЧИКА"
+            }
+          },
+          {
+            "id": "70112285a67fb0d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QList learn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "QList learn"
+            }
+          },
+          {
+            "id": "78841ce5df96bdd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "➡️Last/🟩СУБД🟩/Data Definition Language.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Definition Language"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -232,7 +274,12 @@
   },
   "active": "b68a435c73df1f0b",
   "lastOpenFiles": [
+    "➡️Last/🟩СУБД🟩/Data Definition Language.md",
+    "➡️Last/🟩СУБД🟩/❤️‍🔥БАЗЫ ДАННЫХ И СУБД-ПОЛНОЕ РУКОВОДСТВО ДЛЯ C++QT РАЗРАБОТЧИКА.md",
+    "➡️Last/Promt/🔥Мой идеальный промт.md",
     "🔥Разобрать.md",
+    "QT/Data types/QVariant.md",
+    "QList learn.md",
     "➡️Last/Eng/Самоучитель английского.md",
     "Техкарты/🎃БКЭ/СТРУКТУРА.md",
     "password/database_pass.passtable",
@@ -256,11 +303,6 @@
     "➡️Last/не в тему.md",
     "➡️Last/блок схема mermaid.md",
     "QT/Data types/QMap/QMap.md",
-    "QT/QJsonDocument.md",
-    "QList learn.md",
-    "QT/Data types/QVariant.md",
-    "Untitled.md",
-    "Функция для расчета выражения.md",
     "cache/Pasted image 20260216133217.png",
     "cache/6.3.png",
     "cache/6.4.png",

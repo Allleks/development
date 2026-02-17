@@ -81,3 +81,12 @@ ___
 |`QVariant(QVariant::LongLong)`|`QVariant(0LL)` или `QVariant::fromValue<qlonglong>(0)`|`long long` со значением 0|
 |`QVariant(QVariant::Bool)`|`QVariant(false)`|Явное создание `bool`|
 |`QVariant(QVariant::QString)`|`QString()` или `""`|Оба варианта работают|
+## QVariant::Type              | QMetaType::Type
+```
+QVariant::Invalid           | QMetaType::UnknownType  (значение 0)
+QVariant::Bool              | QMetaType::Bool
+QVariant::Int               | QMetaType::Int
+QVariant::Double            | QMetaType::Double
+QVariant::String            | QMetaType::QString
+// и т.д.
+```
