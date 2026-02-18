@@ -24,23 +24,7 @@
             }
           },
           {
-            "id": "aed0ede78589fba0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "➡️Last/Eng/Самоучитель английского.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Самоучитель английского"
-            }
-          },
-          {
-            "id": "b68a435c73df1f0b",
+            "id": "c7a7bca6eaead6ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,25 +36,9 @@
               "icon": "lucide-file",
               "title": "Запрос на добавление нового поля"
             }
-          },
-          {
-            "id": "4dc2efe3bb48eacc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "➡️Last/🟩СУБД🟩/Работа с SQL для (C++Qt) разработчика.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Работа с SQL для (C++Qt) разработчика"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 322.5
   },
   "right": {
     "id": "441423d6fff1490e",
@@ -143,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QList learn.md",
+                "file": "➡️Last/🟩СУБД🟩/edit🔻Про защиту битых ссылок.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for QList learn"
+              "title": "Backlinks for edit🔻Про защиту битых ссылок"
             }
           },
           {
@@ -232,14 +200,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "4dc2efe3bb48eacc",
+  "active": "c7a7bca6eaead6ad",
   "lastOpenFiles": [
-    "➡️Last/Promt/🔥Мой идеальный промт.md",
-    "➡️Last/🟩СУБД🟩/Работа с SQL для (C++Qt) разработчика.md",
-    "➡️Last/Promt/Шаблоны промтов для разных задач.md",
+    "➡️Last/🟩СУБД🟩/В SQL есть два понятия пустоты.md",
     "🔥Разобрать.md",
+    "➡️Last/Eng/edit🔻Самоучитель английского.md",
+    "Модель в базе данных.md",
+    "➡️Last/🟩СУБД🟩/edit🔻Про защиту битых ссылок.md",
+    "➡️Last/🟩СУБД🟩/Работа с SQL для (C++Qt) разработчика.md",
+    "➡️Last/🟩СУБД🟩/Первичный ключ - PRIMARY KEY.md",
     "➡️Last/🟩СУБД🟩/Запрос на добавление нового поля.md",
-    "➡️Last/Eng/Самоучитель английского.md",
+    "➡️Last/🟩СУБД🟩/Untitled.md",
+    "➡️Last/🟩СУБД🟩/sql инъекция схема в qt.md",
+    "➡️Last/Promt/🔥Мой идеальный промт.md",
+    "➡️Last/Promt/Шаблоны промтов для разных задач.md",
     "QT/Data types/QVariant.md",
     "➡️Last/🟩СУБД🟩/Data Definition Language.md",
     "QList learn.md",
@@ -257,12 +231,6 @@
     "➡️Last/C++/Виртуальный деструктор.md",
     "➡️Last/C++/🟢virtual destructor.md",
     "➡️Last/Eng/naming/✅Лучшие варианты для полноценного окна.md",
-    "➡️Last/Eng/Tech.md",
-    "➡️Last/Eng/all.md",
-    "➡️Last/Eng/💡 Практические советы по использованию.md",
-    "➡️Last/git_branch/✅Main.md",
-    "➡️Last/PowerShell/vcpkg.md",
-    "➡️Last/PowerShell/Получение только хеша (без лишней информации).md",
     "cache/Pasted image 20260216133217.png",
     "cache/6.3.png",
     "cache/6.4.png",
