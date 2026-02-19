@@ -30,8 +30,7 @@ CREATE TABLE users (
 );
 
 -- 2. INSERT (добавление данных)
-INSERT INTO users (id, name, age) 
-VALUES (1, 'Иван', 30);
+INSERT INTO users (id, name, age) VALUES (1, 'Иван', 30);
 
 -- 3. SELECT (чтение данных)
 SELECT * FROM users WHERE age > 25;
@@ -58,7 +57,7 @@ ___
 │  ┌────────────────────────────────────────────────┐ │
 │  │              Qt SQL Drivers                    │ │
 │  │  ┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐           │ │
-│  │  │QPSQL │ │QMYSQL│ │QSQLITE│ │QODBC │          │ │
+│  │  │QPSQL │ │QMYSQL│ │QSQLITE││QODBC │           │ │
 │  │  └──────┘ └──────┘ └──────┘ └──────┘           │ │
 │  └────────────────────────────────────────────────┘ │
 └─────────────────────────────────────────────────────┘

@@ -29,3 +29,5 @@ QDir::currentPath()
 QStringList какие еще Listы бывают?
 ___
 *QCONTAINERFWD_H* в этом файле описание алиасов для контейнеров qt
+
+

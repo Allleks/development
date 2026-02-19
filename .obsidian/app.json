@@ -1,7 +1,8 @@
 {
-  "userIgnoreFilters": [
-    "cache/"
-  ],
+  "userIgnoreFilters": null,
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "newFileLocation": "root",
+  "newFileFolderPath": "cache",
+  "attachmentFolderPath": "cache"
 }

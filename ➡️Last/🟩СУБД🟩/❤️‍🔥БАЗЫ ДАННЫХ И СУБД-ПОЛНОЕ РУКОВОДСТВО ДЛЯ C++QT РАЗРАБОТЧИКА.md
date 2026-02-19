@@ -115,7 +115,6 @@ model->setEditStrategy(QSqlTableModel::OnFieldChange);
 ## Уровень 3: Для эксперта (внутреннее устройство)
 
 ### Архитектура СУБД
-
 ```ascii
 
                     ВЫСОКОУРОВНЕВАЯ АРХИТЕКТУРА СУБД

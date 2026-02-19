@@ -21,23 +21,6 @@ Aperture::Aperture(long long devID) : Element(devID)
 	baseParams.insert("Длина", 0.0);
 	baseParams.insert("Ширина", 0.0);
 	baseParams.insert("Масса", 0.0);
-	baseParams.insert("Кол-во", 0);
-	baseParams.insert("Высота от уровня земли", 0.0);
-	baseParams.insert("Высота от уровня площадки", 0.0);
-
-	baseParams.insert("Крепление на петлях", false);
-	baseParams.insert("Наличие кирпичной кладки", false);
-	baseParams.insert("Толщина утеплителя", 0.0);
-
-	baseParams.insert("Параметрическое обозначение болтов", "");
-	baseParams.insert("НТД крепежа", "");
-	baseParams.insert("Параметрическое обозначение гаек", "");
-	baseParams.insert("НТД гаек", "");
-	baseParams.insert("Количество болтов", 0);
-
-	elementsName = "Проемы";
-
-	simpleSelectParams = "ID, devID, Длина, Ширина, [Высота от уровня земли], [Высота от уровня площадки], [Тип проемов]";
 }
 ```
 ___
