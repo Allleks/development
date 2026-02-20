@@ -6,62 +6,25 @@
       {
         "id": "bfae90ce576edca9",
         "type": "tabs",
-        "dimension": 45.310015898251194,
         "children": [
           {
-            "id": "2cbef1559223a51c",
+            "id": "a4b0bc8e0f20cd8f",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BestPractic/SOLID architecture checklist.md",
+                "file": "🔥Разобрать.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "SOLID architecture checklist"
+              "title": "🔥Разобрать"
             }
           },
           {
-            "id": "45f1dc71be66f37a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "➡️Last/C++/🟢virtual destructor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🟢virtual destructor"
-            }
-          },
-          {
-            "id": "f560b1e589cc57ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Разобрать на 06.02.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Разобрать на 06.02"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "d14d6d0ef54d365e",
-        "type": "tabs",
-        "dimension": 54.68998410174881,
-        "children": [
-          {
-            "id": "49d12c689c042600",
+            "id": "86e09edae45e05e7",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -77,19 +40,17 @@
             }
           },
           {
-            "id": "6b22bba8774e3245",
+            "id": "a2ceab051f194ccf",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "➡️Last/C++/map - value_type.md",
+                "file": "GIT Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "map - value_type"
+              "title": "GIT Cheat Sheet"
             }
           },
           {
@@ -164,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "441423d6fff1490e",
@@ -269,6 +231,7 @@
       "bases:Create new base": false
     }
   },
+<<<<<<< HEAD
   "active": "fdeb9a0007cc2792",
   "lastOpenFiles": [
     "Разобрать на 06.02.md",
@@ -281,41 +244,55 @@
     "➡️Last/Promt/Элементы качественного промта.md",
     "➡️Last/Promt/Промты для Qt-разработки.md",
     "QT/Data types/QVariant.md",
+=======
+  "active": "a2ceab051f194ccf",
+  "lastOpenFiles": [
+    "GIT Cheat Sheet.md",
+>>>>>>> 8c88653aef0ec675fcd2976192163d41e89f9052
     "QList learn.md",
-    "QT/Data types/QVariantMap.md",
-    "➡️Last/C++/Виртуальный деструктор.md",
-    "➡️Last/C++/Предикат сортировки.md",
-    "➡️Last/C++/using vs typedef.md",
-    "QT/Data types/QMetaType/QMetaType (современный в Qt6).md",
-    "QT/Data types/QMetaType/📝 Краткая памятка.md",
+    "➡️Last/🟩СУБД🟩/Модель в базе данных.md",
+    "➡️Last/How install Arch Linux.md",
+    "Untitled 1.md",
+    "How to specify the default the location for images.md",
+    "Untitled.md",
+    "🔥Разобрать.md",
+    "➡️Last/🟩СУБД🟩/Группировка и сортировка.md",
+    "➡️Last/🟩СУБД🟩/❤️‍🔥БАЗЫ ДАННЫХ И СУБД-ПОЛНОЕ РУКОВОДСТВО ДЛЯ C++QT РАЗРАБОТЧИКА.md",
+    "➡️Last/🟩СУБД🟩/Работа с SQL для (C++Qt) разработчика.md",
+    "➡️Last/🟩СУБД🟩/Первичный ключ - PRIMARY KEY и внешний ключ (FOREIGN KEY).md",
+    "➡️Last/🟩СУБД🟩/Запрос на добавление нового поля.md",
+    "➡️Last/🟩СУБД🟩/В SQL есть два понятия пустоты.md",
+    "➡️Last/🟩СУБД🟩/sql инъекция схема в qt.md",
+    "➡️Last/🟩СУБД🟩/edit🔻Про защиту битых ссылок.md",
+    "➡️Last/🟩СУБД🟩/Data Definition Language.md",
+    "Техкарты/🎃БКЭ/Pro добавление изменение в формы и связи с БД.md",
+    "Функция для расчета выражения.md",
+    "cache/struct_qwidget.png",
+    "cache/Pasted image 20260219092131.png",
+    "cache/Pasted image 20260216133618.png",
+    "cache/Pasted image 20260219092111.png",
+    "cache/Pasted image 20260216133553.png",
+    "cache/Pasted image 20260216133341.png",
+    "cache/Pasted image 20260216133316.png",
+    "cache/Pasted image 20260216133217.png",
+    "cache/Pasted image 20251215155155.png",
+    "cache/Pasted image 20251212160808.png",
+    "Техкарты/Операции/Создание древовидной таблицы.md",
+    "cache/Untitled.md",
+    "Техкарты/Операции/Наследуемся для получения одинакового поведения.md",
+    "Техкарты/Создаем окна/Наследуемся от QMainWindow.md",
+    "Техкарты/errorы/Все строки приводим fromLocal8Bit.md",
+    "Техкарты/КЭ.md",
+    "Техкарты/Структура репозитороев.md",
+    "password/database_pass.passtable",
+    "password",
+    "Новая папка",
+    "Техкарты/🎃БКЭ",
+    "Техкарты/🎃БКЭ/Добавить устройство",
+    "QT/Data types/QMap",
     "QT/Data types/QMetaType",
-    "QT/Миграция с qt5 на qt6.md",
-    "➡️Last/VSStudio/📗Документирование кода.md",
-    "➡️Last/VSStudio/Иконка для исполняемого файла.md",
-    "➡️Last/VSStudio/Ошибка с precomile headers.md",
-    "➡️Last/VSStudio/Создаем dll библиотеку.md",
-    "QT/Чтение файлов.md",
-    "➡️Last/VSStudio/maintenance.md",
-    "➡️Last/VSStudio/✅Precompiled Headers (PCH).md",
-    "➡️Last/VSStudio/214324.md",
     "➡️Last/PowerShell",
     "QT/Data types/QString",
-    "Qstring",
-    "Техкарты/StructProject/Абстракции/Абстракция для окон операций",
-    "Техкарты/StructProject/Абстракции",
-    "Техкарты/StructProject",
-    "QT/Widget/Структура GUI/DialogMessage",
-    "BestPractic/Interfaces и Abstract class",
-    "BestPractic/what`s new",
-    "cache/6.6.png",
-    "cache/6.3.png",
-    "cache/6.5.png",
-    "cache/6.4.png",
-    "cache/modelview-models.png",
-    "Pasted image 20251218085433.png",
-    "cache/MPV.png",
-    "cache/struct_qwidget.png",
-    "cache/независимые окна.png",
-    "cache/Pasted image 20251215155155.png"
+    "Qstring"
   ]
 }
