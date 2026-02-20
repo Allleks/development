@@ -6,7 +6,6 @@
       {
         "id": "bfae90ce576edca9",
         "type": "tabs",
-        "dimension": 44.43699731903485,
         "children": [
           {
             "id": "a4b0bc8e0f20cd8f",
@@ -41,42 +40,21 @@
             }
           },
           {
-            "id": "35859a0fbea0d8ea",
+            "id": "a2ceab051f194ccf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "➡️Last/🟩СУБД🟩/Модель в базе данных.md",
+                "file": "GIT Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Модель в базе данных"
+              "title": "GIT Cheat Sheet"
             }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "19aa84111876698e",
-        "type": "tabs",
-        "dimension": 55.56300268096515,
-        "children": [
-          {
-            "id": "cc4f9943b2a0c9cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "➡️Last/How install Arch Linux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How install Arch Linux"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "➡️Last/How install Arch Linux.md",
+                "file": "QList learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for How install Arch Linux"
+              "title": "Backlinks for QList learn"
             }
           },
           {
@@ -239,12 +217,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "cc4f9943b2a0c9cc",
+  "active": "a2ceab051f194ccf",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "➡️Last/How install Arch Linux.md",
-    "➡️Last/🟩СУБД🟩/Модель в базе данных.md",
+    "GIT Cheat Sheet.md",
     "QList learn.md",
+    "➡️Last/🟩СУБД🟩/Модель в базе данных.md",
+    "➡️Last/How install Arch Linux.md",
+    "Untitled 1.md",
     "How to specify the default the location for images.md",
     "Untitled.md",
     "🔥Разобрать.md",
@@ -276,7 +255,6 @@
     "Техкарты/errorы/Все строки приводим fromLocal8Bit.md",
     "Техкарты/КЭ.md",
     "Техкарты/Структура репозитороев.md",
-    "Техкарты/ResolveExpression.md",
     "password/database_pass.passtable",
     "password",
     "Новая папка",
