@@ -6,6 +6,7 @@
       {
         "id": "bfae90ce576edca9",
         "type": "tabs",
+        "dimension": 44.43699731903485,
         "children": [
           {
             "id": "a4b0bc8e0f20cd8f",
@@ -24,63 +25,58 @@
             }
           },
           {
-            "id": "5eb893c3c4446591",
+            "id": "86e09edae45e05e7",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "➡️Last/🟩СУБД🟩/Работа с SQL для (C++Qt) разработчика.md",
+                "file": "QList learn.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Работа с SQL для (C++Qt) разработчика"
+              "title": "QList learn"
             }
           },
           {
-            "id": "0c8349c4419c1ffe",
+            "id": "35859a0fbea0d8ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to specify the default the location for images.md",
+                "file": "➡️Last/🟩СУБД🟩/Модель в базе данных.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to specify the default the location for images"
-            }
-          },
-          {
-            "id": "354230db0370b448",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "➡️Last/🟩СУБД🟩/❤️‍🔥БАЗЫ ДАННЫХ И СУБД-ПОЛНОЕ РУКОВОДСТВО ДЛЯ C++QT РАЗРАБОТЧИКА.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "❤️‍🔥БАЗЫ ДАННЫХ И СУБД-ПОЛНОЕ РУКОВОДСТВО ДЛЯ C++QT РАЗРАБОТЧИКА"
-            }
-          },
-          {
-            "id": "c14660bbe0937917",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "➡️Last/🟩СУБД🟩/Группировка и сортировка.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Группировка и сортировка"
+              "title": "Модель в базе данных"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
+      },
+      {
+        "id": "19aa84111876698e",
+        "type": "tabs",
+        "dimension": 55.56300268096515,
+        "children": [
+          {
+            "id": "cc4f9943b2a0c9cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "➡️Last/How install Arch Linux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How install Arch Linux"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "441423d6fff1490e",
@@ -153,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "➡️Last/🟩СУБД🟩/edit🔻Про защиту битых ссылок.md",
+                "file": "➡️Last/How install Arch Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for edit🔻Про защиту битых ссылок"
+              "title": "Backlinks for How install Arch Linux"
             }
           },
           {
@@ -242,26 +239,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "c14660bbe0937917",
+  "active": "cc4f9943b2a0c9cc",
   "lastOpenFiles": [
-    "➡️Last/How install Arch Linux.md",
-    "➡️Last/🟩СУБД🟩/Группировка и сортировка.md",
     "Untitled 1.md",
+    "➡️Last/How install Arch Linux.md",
+    "➡️Last/🟩СУБД🟩/Модель в базе данных.md",
+    "QList learn.md",
+    "How to specify the default the location for images.md",
+    "Untitled.md",
     "🔥Разобрать.md",
+    "➡️Last/🟩СУБД🟩/Группировка и сортировка.md",
+    "➡️Last/🟩СУБД🟩/❤️‍🔥БАЗЫ ДАННЫХ И СУБД-ПОЛНОЕ РУКОВОДСТВО ДЛЯ C++QT РАЗРАБОТЧИКА.md",
     "➡️Last/🟩СУБД🟩/Работа с SQL для (C++Qt) разработчика.md",
     "➡️Last/🟩СУБД🟩/Первичный ключ - PRIMARY KEY и внешний ключ (FOREIGN KEY).md",
     "➡️Last/🟩СУБД🟩/Запрос на добавление нового поля.md",
     "➡️Last/🟩СУБД🟩/В SQL есть два понятия пустоты.md",
-    "➡️Last/🟩СУБД🟩/❤️‍🔥БАЗЫ ДАННЫХ И СУБД-ПОЛНОЕ РУКОВОДСТВО ДЛЯ C++QT РАЗРАБОТЧИКА.md",
     "➡️Last/🟩СУБД🟩/sql инъекция схема в qt.md",
     "➡️Last/🟩СУБД🟩/edit🔻Про защиту битых ссылок.md",
     "➡️Last/🟩СУБД🟩/Data Definition Language.md",
     "Техкарты/🎃БКЭ/Pro добавление изменение в формы и связи с БД.md",
-    "How to specify the default the location for images.md",
-    "Untitled.md",
-    "QList learn.md",
     "Функция для расчета выражения.md",
-    "Модель в базе данных.md",
     "cache/struct_qwidget.png",
     "cache/Pasted image 20260219092131.png",
     "cache/Pasted image 20260216133618.png",
